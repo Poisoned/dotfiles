@@ -1,0 +1,26 @@
+[
+  { "keys": ["super+ctrl+period"],
+    "command": "switch_between_code_and_test",
+    "context": [ { "key": "selector", "operator": "equal",
+                 "operand": "source.ruby, source.rspec, text.gherkin.feature"
+             } ]
+  },
+  { "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
+  { "keys": ["f10"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+  {
+    "keys": ["super+shift+o"], "command": "browser_refresh", "args": {
+      "auto_save": true,
+      "delay": 0.0,
+      "activate": false,
+      "browsers" : ["chrome"]
+    }
+  },
+  {
+    "keys": ["super+shift+l"], "command": "browser_refresh", "args": {
+      "auto_save": true,
+      "delay": 0.0,
+      "activate": true,
+      "browsers" : ["chrome"]
+    }
+  }
+]
