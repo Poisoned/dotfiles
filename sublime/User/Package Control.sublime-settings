@@ -5,7 +5,17 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"MarkdownLight",
 		"Package Control",
+		"RSpec",
+		"Ruby Hash Converter",
 		"Theme - amCoder"
 	]
 }

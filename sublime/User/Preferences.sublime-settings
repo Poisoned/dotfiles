@@ -8,6 +8,10 @@
 	"font_size": 18,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"remember_open_files": false,
 	"rulers":
 	[
