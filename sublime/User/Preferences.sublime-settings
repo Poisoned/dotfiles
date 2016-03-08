@@ -2,17 +2,12 @@
 	"always_prompt_for_file_reload": false,
 	"atomic_save": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/amCoder Classic (SL).tmTheme",
+	"color_scheme": "Packages/User/amCoder Classic.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Menlo",
 	"font_size": 18,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"LaTeX",
-		"Vintage"
-	],
 	"remember_open_files": false,
 	"rulers":
 	[
