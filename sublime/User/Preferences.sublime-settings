@@ -25,6 +25,7 @@
 		120
 	],
 	"show_full_path": true,
+	"show_tab_close_buttons": false,
 	"tab_size": 2,
 	"theme": "amCoder Classic.sublime-theme",
 	"translate_tabs_to_spaces": true,
