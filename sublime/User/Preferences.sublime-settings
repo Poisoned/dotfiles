@@ -1,6 +1,6 @@
 {
 	"always_prompt_for_file_reload": false,
-	"atomic_save": true,
+	"atomic_save": false,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/amCoder Classic.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
