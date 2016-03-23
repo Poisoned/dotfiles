@@ -1,6 +1,12 @@
 {
 	"always_prompt_for_file_reload": false,
 	"atomic_save": false,
+	"binary_file_patterns":
+	[
+		"vendor/*",
+		"tmp/*",
+		"log/*"
+	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/amCoder Classic.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
