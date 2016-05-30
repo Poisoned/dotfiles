@@ -5,10 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"Babel",
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Browser Refresh",
+		"DotENV",
+		"Elixir",
 		"Git",
 		"GitGutter",
 		"Github Tools",
