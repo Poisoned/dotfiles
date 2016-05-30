@@ -7,6 +7,7 @@
   },
   { "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
   { "keys": ["f10"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+  // Browser Refresh Plugin
   {
     "keys": ["super+shift+o"], "command": "browser_refresh", "args": {
       "auto_save": true,
@@ -21,6 +22,41 @@
       "delay": 0.0,
       "activate": true,
       "browsers" : ["chrome"]
+    }
+  },
+  // Brackets Plugin Shortcuts
+  // Go to left bracket
+  {
+    "keys": ["ctrl+alt+super+down"],
+    "command": "bh_key",
+    "args":
+    {
+      "no_outside_adj": null,
+      "no_block_mode": null,
+      "lines" : true,
+      "plugin":
+      {
+          "type": ["__all__"],
+          "command": "bh_modules.bracketselect",
+          "args": {"select": "right"}
+      }
+    }
+  },
+  // Go to left bracket
+  {
+    "keys": ["ctrl+alt+super+up"],
+    "command": "bh_key",
+    "args":
+    {
+      "no_outside_adj": null,
+      "no_block_mode": null,
+      "lines" : true,
+      "plugin":
+      {
+        "type": ["__all__"],
+        "command": "bh_modules.bracketselect",
+        "args": {"select": "left"}
+      }
     }
   }
 ]
