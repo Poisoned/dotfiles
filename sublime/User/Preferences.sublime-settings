@@ -3,9 +3,8 @@
 	"atomic_save": false,
 	"binary_file_patterns":
 	[
-		"vendor/*",
-		"tmp/*",
-		"log/*"
+		"*.gem",
+		"*.log"
 	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/amCoder Classic.tmTheme",
