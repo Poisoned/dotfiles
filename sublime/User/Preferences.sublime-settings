@@ -4,6 +4,7 @@
 	"binary_file_patterns":
 	[
 		"*.gem",
+		"*.pack",
 		"*.log"
 	],
 	"bold_folder_labels": true,
