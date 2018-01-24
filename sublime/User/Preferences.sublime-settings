@@ -1,6 +1,8 @@
 {
 	"always_prompt_for_file_reload": false,
 	"atomic_save": false,
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
 	"binary_file_patterns":
 	[
 		"*.gem",
@@ -9,6 +11,7 @@
 	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/amCoder Classic.tmTheme",
+	"copy_with_empty_selection": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Menlo",
 	"font_size": 18,
@@ -18,6 +21,7 @@
 	[
 		"Vintage"
 	],
+	"index_files": true,
 	"remember_open_files": false,
 	"rulers":
 	[
@@ -31,5 +35,6 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
-	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+	"word_wrap": false
 }
