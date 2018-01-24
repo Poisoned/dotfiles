@@ -15,12 +15,13 @@
 		"Git",
 		"GitGutter",
 		"Github Tools",
-		"MarkdownLight",
 		"Package Control",
 		"RSpec",
 		"RuboCop",
 		"Ruby Hash Converter",
 		"Sass",
+		"SublimeLinter",
+		"TestRSpec",
 		"Theme - amCoder"
 	]
 }
