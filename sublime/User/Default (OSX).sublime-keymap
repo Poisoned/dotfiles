@@ -6,16 +6,10 @@
              } ]
   },
   { "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
+  { "keys": ["super+ctrl+f"], "command": "copy_path" },
+  { "keys": ["alt+super+p"], "command": "insert", "args": {"characters": "binding.pry"} },
   { "keys": ["f10"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
   // Browser Refresh Plugin
-  {
-    "keys": ["super+shift+o"], "command": "browser_refresh", "args": {
-      "auto_save": true,
-      "delay": 0.0,
-      "activate": false,
-      "browsers" : ["chrome"]
-    }
-  },
   {
     "keys": ["super+shift+l"], "command": "browser_refresh", "args": {
       "auto_save": true,
